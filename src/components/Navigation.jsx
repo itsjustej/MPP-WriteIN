@@ -11,6 +11,7 @@ export default function Navigation() {
     { label: 'About', path: '/about' },
     { label: 'Platform', path: '/platform' },
     { label: 'Economic Plan', path: '/economic-recovery' },
+    { label: 'Petition', path: '/petition' },
   ];
 
   return (

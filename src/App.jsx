@@ -6,6 +6,7 @@ import Platform from './pages/Platform';
 import EconomicRecovery from './pages/EconomicRecovery';
 import SiteFooter from './components/SiteFooter';
 import './styles/campaign.css';
+import PetitionForm from './pages/PetitionForm';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/platform" element={<Platform />} />
           <Route path="/economic-recovery" element={<EconomicRecovery />} />
+          <Route path="/petition" element={<PetitionForm />} />
         </Routes>
         <SiteFooter />
       </div>

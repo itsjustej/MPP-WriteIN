@@ -61,7 +61,7 @@ const planks = [
   },
   {
     title: 'Citizen CPA Audits',
-    text: 'Independent citizen CPA audits of U.S. financial institutions — bringing transparency and accountability to the systems that hold America\'s wealth.',
+    text: 'Independent citizen CPA audits of N.C. financial institutions — bringing transparency and accountability to the systems that hold America\'s wealth.',
   },
 ];
 
@@ -103,7 +103,7 @@ export default function Platform() {
           This campaign accepts NO contributions.
         </h2>
         <p className="no-donations-sub">
-          Michele Palmer Parks is funded by the people, for the people.
+          Michele Palmer Park is funded by the people, for the people.
         </p>
       </section>
     </main>

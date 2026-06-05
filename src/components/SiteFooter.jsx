@@ -14,7 +14,7 @@ export default function SiteFooter() {
       <div className="footer-stars">★ ★ ★ ★ ★</div>
 
       <p style={{ fontFamily: "'Source Sans 3', sans-serif", fontSize: '0.88rem', color: 'rgba(245,240,232,0.5)', lineHeight: 1.7 }}>
-        Michele Palmer Parks &nbsp;·&nbsp; Write-In Candidate for U.S. Senate
+        Michele Palmer Park &nbsp;·&nbsp; Write-In Candidate for U.S. Senate
       </p>
 
       <p className="footer-state">North Carolina &nbsp;·&nbsp; No contributions accepted</p>

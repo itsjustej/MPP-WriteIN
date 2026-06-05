@@ -24,7 +24,7 @@ export default function About() {
 
           <div className="about-grid">
             <div className="about-bio"><p>
-  Michele Palmer Parks is a North Carolina native whose life has been defined by service,
+  Michele Palmer Park is a North Carolina native whose life has been defined by service,
   education, and an unshakeable conviction that government must answer to the people —
   not to donors, lobbyists, or party machines.
 </p>

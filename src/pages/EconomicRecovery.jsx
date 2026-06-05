@@ -20,7 +20,7 @@ export default function EconomicRecovery() {
             </p>
 
             <p style={{ fontFamily: "'Libre Baskerville', Georgia, serif", fontSize: '1rem', lineHeight: 1.75, color: 'rgba(245,240,232,0.8)', marginBottom: '2rem' }}>
-              While Washington debated trickle-down stimulus, Michele Palmer Parks submitted a direct-to-household
+              While Washington debated trickle-down stimulus, Michele Palmer Park submitted a direct-to-household
               recovery proposal — real money in the hands of real Americans to stabilize housing, transportation,
               and technology access simultaneously.
             </p>
