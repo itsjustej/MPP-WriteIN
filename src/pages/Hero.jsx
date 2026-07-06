@@ -15,7 +15,7 @@ export default function Hero() {
 
         <h1 className="hero-name">
           Michele<br />
-          <span>Palmer Park</span>
+          <span>Palmer Parks</span>
         </h1>
 
         <p className="hero-subtitle">
@@ -31,7 +31,7 @@ export default function Hero() {
         </Link>
 
         <p className="hero-write-in-note">
-          Write in: Michele Palmer Park &nbsp;·&nbsp; No contributions accepted
+          Write in: Michele Palmer Parks &nbsp;·&nbsp; No contributions accepted
         </p>
       </div>
     </section>

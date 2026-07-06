@@ -103,7 +103,7 @@ export default function Platform() {
           This campaign accepts NO contributions.
         </h2>
         <p className="no-donations-sub">
-          Michele Palmer Park is funded by the people, for the people.
+          Michele Palmer Parks is funded by the people, for the people.
         </p>
       </section>
     </main>
